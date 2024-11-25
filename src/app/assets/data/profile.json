@@ -1,0 +1,38 @@
+{
+    "about":"Hey! I am an developer (designer, most of the times), learning how to build and design scalable websites and applications. My focus is to build with better user experience, design aesthetic, good developer experience and meaningful impact.",
+    "resume":"https://drive.google.com/file/d/1_iXsxEdHharGButPcoBQPZhDPxE5hfCa/view?usp=sharing",
+    "work": {
+        "title":"Frontend developer at Ezage",
+        "description":"Developed and optimized user interfaces using Figma and implemented them using React JS, ensuring a seamless user experience"
+    },
+    "projects":[{
+        "title":"Enliven",
+        "description":"Manage an awareness website for domestic violence victims, providing resources and support to help individuals make informed decisions.",
+        "link":"https://enliven-team.netlify.app/",
+        "technologies":"React.js, Vite, Tailwind CSS, AOS"
+    },
+    {
+        "title":"GloRhea",
+        "description":"Engineered an application for 40% of women lacking abortion info, focusing on regions with strict laws. ",
+        "link":"https://glorhea-womenhelp.netlify.app/",
+        "technologies":"React.js, Vite, Frame Motion, Tailwind CSS, Figma"
+    },
+    {
+        "title":"Solace",
+        "description":"Led a hackathon-winning project that secured 3rd prize, providing critical resources to individuals in war zones with a focus on safety and accessibility. ",
+        "link":"https://github.com/UditaVed/SOLACE",
+        "technologies":"Html5, Tailwind CSS, Node.js, GSAP"
+    }],
+    "contacts":[
+        {
+            "name":"Github",
+            "link":"https://github.com/UditaVed",
+            "icon":"github"
+        },
+        {            
+            "name":"Linkedin",
+            "link":"https://www.linkedin.com/in/udita-vishnoi/",
+            "icon":"linkedin"
+        }
+    ]
+}
