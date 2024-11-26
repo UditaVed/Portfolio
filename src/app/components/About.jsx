@@ -5,7 +5,7 @@ import profileImage  from '../assets/green_kurta.jpg'
 export const About = () => {
   return (
     <div>
-        <div className='flex flex-col items-center md:justify-normal md:flex-row gap-6 '>
+        <div className='flex flex-col items-center md:justify-normal md:flex-row gap-6'>
             <Image
                 src={profileImage}
                 alt='profile'
@@ -23,7 +23,7 @@ export const About = () => {
         
         <p className='mt-7 text-black text-[15px] md:text-[16px]'>about me.</p>
         <div className='mt-3 md:text-[16px] text-[14px]'>{Data.about}</div>
-        <div className='bg-[#27272A] w-fit h-fit px-3 font-light py-1 text-white rounded-md mt-4 md:text-[16px] text-[14px]'>
+        <div className='bg-[#27272A] w-fit h-fit px-3 font-light py-1 text-white rounded-md mt-4 md:text-[16px] text-[14px] hover:text-gray-950 hover:bg-[#ffe1b9]'>
             <a href={Data.resume} target='_blank'>Resume</a>
         </div>
     </div>
