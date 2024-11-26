@@ -26,13 +26,11 @@
     "contacts":[
         {
             "name":"Github",
-            "link":"https://github.com/UditaVed",
-            "icon":"github"
+            "link":"https://github.com/UditaVed"
         },
         {            
             "name":"Linkedin",
-            "link":"https://www.linkedin.com/in/udita-vishnoi/",
-            "icon":"linkedin"
+            "link":"https://www.linkedin.com/in/udita-vishnoi/"
         }
     ]
 }

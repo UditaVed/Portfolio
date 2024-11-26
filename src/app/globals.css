@@ -5,7 +5,30 @@
 :root {
   margin-left: 25vw;
   margin-right: 25vw;
-  margin-top: 65px;
+  margin-top: 58px;
   font-family: var(--font-outfit);
+  color: #71717A;
 }
 
+/* Media Query for smaller screens */
+@media (max-width: 1024px) {
+  :root {
+    margin-left: 15vw;
+    margin-right: 15vw;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    margin-left: 5vw;
+    margin-right: 5vw;
+  }
+}
+
+@media (max-width: 640px) {
+  :root {
+    margin-left: 11vw;
+    margin-right: 11vw;
+    margin-top: 32px; /* Adjust top margin for smaller screens */
+  }
+}
