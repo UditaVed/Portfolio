@@ -1,9 +1,9 @@
 {
-    "about":"Hey! I am an developer (designer, most of the times), learning how to build and design scalable websites and applications. My focus is to build with better user experience, design aesthetic, good developer experience and meaningful impact.",
+    "about":"Hey! I build scalable web experiences and translate real product needs into reliable, user-centric solutions using modern frontend technologies.",
     "resume":"https://drive.google.com/file/d/137xlV6QbKNLwVGNMlteZO_voGJkqwU6w/view?usp=sharing",
     "work": {
-        "title":"Frontend developer at Ezage",
-        "description":"Developed and optimized user interfaces using Figma and implemented them using React JS, ensuring a seamless user experience"
+        "title":"Software Developer — Nova Platform",
+        "description":"Delivered critical customer workflows, optimized frontend architecture, and collaborated with Product and QA to ship reliable releases."
     },
     "projects":[{
         "title":"Enliven",
